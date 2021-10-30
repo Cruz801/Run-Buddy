@@ -194,9 +194,10 @@ section {
     border: none;
     font-size: 16px;
     border-radius: 10px;
-    background-color: 
-/* HERO STYLE ENDS */
+    background-color: var(--secondary-color);
 }
+/* HERO STYLE ENDS */
+
 
 .intro p {
     line-height: 1.7;
